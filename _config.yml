@@ -8,6 +8,9 @@ theme_settings:
   title: Natthawute's Notebook
   avatar:
   favicon: /assets/img/favicon.ico
+  footer_text: > 
+   Copyright &copy; 2020 Natthawute Sae-Lim
+
   gravatar: # Email MD5 hash
   description: "Natthawute Sae-Lim" # used by search engines
 
