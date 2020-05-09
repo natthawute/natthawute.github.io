@@ -7,13 +7,13 @@
   display: flex;
   white-space: nowrap;
   overflow-x: auto;
+  margin-bottom: 1em;
 }
 
 .input_prompt {
   margin: 1em 10px 0px 0px;
   color: #303F9F;
   font-family: monospace, monospace;
-  width: 13%;
   text-align: right;
 }
 
@@ -26,12 +26,12 @@ figure.highlight {
 }
 
 .language-plaintext{
-  margin: 0% 0% 3% 13%;
+  margin: 0% 0% 3% 9%;
+  background-color: white;
 }
 
 .language-plaintext .highlight{
   background-color: white;
-  padding: 0px 0px 0px 3px;
 }
 
 pre {
@@ -39,7 +39,7 @@ pre {
 }
 
 p  img {
-  margin: 0% 0% 3% 13%;
+  margin: 0% 0% 3% 8%;
 }
 .dataframe tbody tr th:only-of-type {
   vertical-align: middle;
