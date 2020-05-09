@@ -2,3 +2,124 @@
 ---
 
 @import "type-theme";
+
+.input_area {
+  display: flex;
+  white-space: nowrap;
+  overflow-x: auto;
+}
+
+.input_prompt {
+  margin: 1em 10px 0px 0px;
+  color: #303F9F;
+  font-family: monospace, monospace;
+  width: 13%;
+  text-align: right;
+}
+
+figure.highlight {
+  padding: 10px 10px !important;
+  background-color: #F7F7F7  !important;
+  outline: 2px solid #E0E0E0;
+  margin: 10px 0px;
+  width: 100%;  
+}
+
+.language-plaintext{
+  margin: 0% 0% 3% 13%;
+}
+
+.language-plaintext .highlight{
+  background-color: white;
+  padding: 0px 0px 0px 3px;
+}
+
+pre {
+  margin: 0;
+}
+
+p  img {
+  margin: 0% 0% 3% 13%;
+}
+.dataframe tbody tr th:only-of-type {
+  vertical-align: middle;
+}
+
+.dataframe tbody tr th {
+  vertical-align: top;
+}
+
+.dataframe thead th {
+  text-align: right;
+}
+
+table.dataframe {
+  margin: 0% 0% 3% 12.5%;
+  border: none;
+  border-collapse: collapse;
+  border-spacing: 0;
+  color: black;
+  font-size: 0.9em;
+  table-layout: fixed;
+  width: initial;
+}
+table.dataframe thead {
+  border-bottom: 1px solid black;
+  vertical-align: bottom;
+}
+table.dataframe tr,
+table.dataframe th,
+table.dataframe td {
+  text-align: right;
+  vertical-align: middle;
+  padding: 0.5em 0.5em;
+  line-height: normal;
+  white-space: normal;
+  max-width: none;
+  border: none;
+}
+table.dataframe th {
+  font-weight: bold;
+}
+table.dataframe tbody tr:nth-child(odd) {
+  background: #f5f5f5;
+}
+table.dataframe tbody tr:hover {
+  background: rgba(66, 165, 245, 0.2);
+}
+table.dataframe * + table {
+  margin-top: 1em;
+}
+table.dataframe p {
+  text-align: left;
+}
+table.dataframe * + p {
+  margin-top: 1em;
+}
+table.dataframe img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+table.dataframe * + img {
+  margin-top: 1em;
+}
+table.dataframe img,
+table.dataframe svg {
+  max-width: 100%;
+  height: auto;
+}
+table.dataframe img.unconfined,
+table.dataframe svg.unconfined {
+  max-width: none;
+}
+table.dataframe .alert {
+  margin-bottom: initial;
+}
+table.dataframe * + .alert {
+  margin-top: 1em;
+}
+[dir="rtl"] table.dataframe p {
+  text-align: right;
+}
+
