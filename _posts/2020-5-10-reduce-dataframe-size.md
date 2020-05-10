@@ -73,7 +73,8 @@ def reduce_mem_usage(df):
                 else:
                     df[col] = df[col].astype(np.float64)    
     end_mem = df.memory_usage().sum() / 1024**2
-    print('Mem. usage decreased from {:5.2f} Mb to {:5.2f} Mb ({:.1f}% reduction)'.format(start_mem, end_mem, 100 * (start_mem - end_mem) / start_mem))
+    print('Mem. usage decreased from {:5.2f} Mb to {:5.2f} Mb ({:.1f}% reduction)'
+          .format(start_mem, end_mem, 100 * (start_mem - end_mem) / start_mem))
     return df
 {% endhighlight %}
 </div>
