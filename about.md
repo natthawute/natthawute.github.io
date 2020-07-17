@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 ![](/assets/img/profile-pic.png){:style="float: left;margin-right: 15px;"}
 ## Natthawute Sae-Lim, Ph.D.
