@@ -18,7 +18,7 @@ ____
    **Authors:** Aoi Takahashi, <u>Natthawute Sae-Lim</u>, Shinpei Hayashi, Motoshi Saeki  
    **Journal:** Journal of Systems and Software, 2021  
    **Preprint:** [PDF](https://www.sciencedirect.com/science/article/pii/S0164121221000832/pdfft?md5=ce961c9a3f545fcd2c1d6615d79c2486&pid=1-s2.0-S0164121221000832-main.pdf)  
-1. **An extensive study on smell-aware bug localization**  
+1. **Supporting Proactive Refactoring: An Exploratory Study on Decaying Modules and Their Prediction**  
    **Authors:** <u>Natthawute Sae-Lim</u>, Shinpei Hayashi, Motoshi Saeki  
    **Journal:** IEICE Transactions on Information and Systems, 2021  
    **Preprint:** [PDF](/assets/paper/Natthawute-IEICE2021.pdf)  
