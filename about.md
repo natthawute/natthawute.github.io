@@ -6,9 +6,9 @@ permalink: /
 ![](/assets/img/profile-pic.png){:style="float: left;margin-right: 15px;"}
 ## Natthawute Sae-Lim, Ph.D.
 ### Education
-**Ph.D.**, Computer Science, Tokyo Institute of Technology, Japan, 2016--2019  
-**M.Eng.**, Compter Science, Tokyo Institute of Technology, Japan, 2014--2016  
-**B.Eng.** Computer Engineering, King Mongkut's Institute of Technology, Thailand, 2008--2012  
+**Ph.D.**, Computer Science, Tokyo Institute of Technology, Japan  
+**M.Eng.**, Compter Science, Tokyo Institute of Technology, Japan  
+**B.Eng.** Computer Engineering, King Mongkut's Institute of Technology, Thailand  
   
 ____
 
